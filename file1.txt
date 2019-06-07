@@ -1,11 +1,11 @@
-Ol·!
+Ol√°!
 
-Hoje È sexta feira, 07 de junho de 2019.
+Hoje √© sexta feira, 07 de junho de 2019.
 
-Meu nome È Ciclano de Tal Junior, nascido em 30/02/2087, portanto tenho 15 anos.
-Meu RG È 12.345.678 e meu CPF È 123.456.789-10
-Meu pai se chama Ciclano de Tal e minha m„e Ciclana de Tal.
+Meu nome √© Ciclano de Tal Junior, nascido em 30/02/2087, portanto tenho 15 anos.
+Meu RG √© 98.765.432 e meu CPF √© 123.456.789-10
+Meu pai se chama Ciclano de Tal e minha m√£e Ciclana de Tal.
 
-Este arquivo ser· usado para realizar experiÍncias com os comandos Git e o Github.
+Este arquivo ser√° usado para realizar experi√™ncias com os comandos Git e o Github.
 
-AtÈ logo.
+At√© logo.
