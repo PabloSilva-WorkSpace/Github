@@ -1,0 +1,11 @@
+Olá!
+
+Hoje é sexta feira, 07 de junho de 2019.
+
+Meu nome é Fulano de Tal, nascido em 30/02/2087, portanto tenho 15 anos.
+Meu RG é 12.345.678 e meu CPF é 123.456.789-10
+Meu pai se chama Ciclano de Tal e minha mãe Ciclana de Tal.
+
+Este arquivo será usado para realizar experiências com os comandos Git e o Github.
+
+Até logo.
