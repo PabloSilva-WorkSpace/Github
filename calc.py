@@ -1,5 +1,5 @@
 def somar( a, b ):
     return a + b
 
-
-print( somar( 1, 2 ) )
+def subtrair( a, b ):
+    return a - b
